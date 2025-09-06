@@ -18,27 +18,21 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Smit79/Java-Script)
 
 
-### 📚 Competitive Programming Profiles  
+## 📊 GitHub Stats
+![brij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=tokyonight)  
 
-<a href="https://leetcode.com/u/Smit280306/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/smitvansjzamz/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME">
-  <img src="https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=tokyonight)
 
+---
 
-### 📊 GitHub Stats  
+## 🏆 Competitive Programming & Open Source
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Smit280306)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/smitvansjzamz/)  
 
-<a href="https://github.com/Smit79">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
+---
 
-<a href="https://github.com/Smit79">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=radical" alt="Top Languages" />
-</a>
+## 🌐 Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smitvansjalita79@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-vansjaliya-b9999a372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-
+---
