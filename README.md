@@ -20,9 +20,8 @@
 
 ### 📚 Competitive Programming Profiles  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Smit280306/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/smitvansjzamz/)
 
  
 
