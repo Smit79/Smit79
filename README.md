@@ -20,9 +20,10 @@
 
 ### 📚 Competitive Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-2b2b2b?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2b2b2b?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2b2b2b?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=FF7A00&labelColor=FFFFFF&color=lightgrey&link=https://leetcode.com/YOUR-LEETCODE-USERNAME)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=FFFFFF&color=lightgrey)](https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=FFFFFF&color=lightgrey)](https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME)
+
  
 
 ### 📊 GitHub Stats
