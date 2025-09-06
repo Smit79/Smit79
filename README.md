@@ -18,12 +18,11 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Smit79/Java-Script)
 
 
-<p align="center">
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-2b2b2b?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-2b2b2b?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2b2b2b?style=flat-square&logo=hackerrank&logoColor=white" /></a>
-</p>
+### 📚 Competitive Programming Profiles  
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME)
 
  
 
