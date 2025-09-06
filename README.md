@@ -19,4 +19,5 @@
 
 
 ### 📊 GitHub Stats
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=smitvansjaliya&show_icons=true&theme=radical](https://github.com/Smit79))
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitvansjaliya&show_icons=true&theme=radical)](https://github.com/Smit79)
+
