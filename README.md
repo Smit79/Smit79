@@ -18,10 +18,12 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Smit79/Java-Script)
 
 
-### 📚 Competitive Programming Profiles  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Smit280306/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/smitvansjzamz/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME)  
+### 📚 Competitive Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-2b2b2b?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2b2b2b?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2b2b2b?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME)
+ 
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=radical)](https://github.com/Smit79)
