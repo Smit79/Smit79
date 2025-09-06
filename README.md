@@ -20,11 +20,27 @@
 
 ### 📚 Competitive Programming Profiles  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Smit280306/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/smitvansjzamz/)
+<p align="center">
+  <a href="https://leetcode.com/u/Smit280306/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/smitvansjzamz/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
- 
 
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=radical)](https://github.com/Smit79)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=radical)
+### 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/Smit79">
+    <img src="https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Smit79">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
