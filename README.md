@@ -28,6 +28,7 @@
 ## 🏆 Competitive Programming & Open Source
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Smit280306)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/smitvansjzamz/)
+[![Codeolio](https://img.shields.io/badge/Codeolio-2F80ED?style=flat&logoColor=white)](https://codolio.com/profile/Smit79)
 
 ---
 
