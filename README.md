@@ -17,13 +17,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Smit79/Java-Script)
 
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=tokyonight" />
-
 ---
 
 ## 🏆 Competitive Programming & Open Source
