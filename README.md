@@ -19,8 +19,11 @@
 
 
 ## 📊 GitHub Stats
-![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smit79&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit79&layout=compact&theme=tokyonight)
+
 
 ---
 
